@@ -1,12 +1,11 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_node - short description
+ * binary_tree_node - create node
  *
- * Description: long description
  *
- * @parent: argument_1 description
- * @value: argument_2 description
+ * @parent: pointer to parent
+ * @value: pointer to the created new node
  *
  * Return: return description
  */
